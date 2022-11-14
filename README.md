@@ -33,5 +33,12 @@ Code: vowelCounter("CaTS CATEReD ThE EveNT");
 Expected Output: 7
 
 
+Describe: Pig Latin Translator
 
+Test: Test first letter of a word.
+Code: function pigLatinTranslator(text)
+Expected output: "w"
 
+Test: Test if the first letter of a word is a vowel.
+Code: function pigLatinTranslator(text)
+Expected output: false;
